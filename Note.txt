@@ -1,0 +1,11 @@
+    //create account mongo db 
+    #1 first create a node project
+    #2 then npm init 
+    #3 then nodemon
+    #4 then create a database project and mongo-db  collection in mongodb database
+    #5 insert data in collection
+    # npm i mongodb
+    #api adress list thaka allow access deya deta hba anywhere 0.0.0.0/0
+
+//insert data in collection
+   insertOne,insertMany,
